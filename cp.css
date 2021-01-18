@@ -1,0 +1,29 @@
+body{
+  background: #075ef5;
+  text-align: center;
+  color: #dcf0f5;
+  border: 30px solid #07cdf5;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p{
+  padding: 20px 50px;
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+#signup{
+ background-color: #f5a207;
+ font-size: 1.5em;
+ margin-top: 10px;
+ width: 15%;
+ border-radius: 20px;
+}
+
+#signup:hover{
+  background-color: #f54a07;
+}
